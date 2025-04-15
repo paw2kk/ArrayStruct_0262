@@ -14,4 +14,7 @@ int main(){
   mhs.nim = "20220140102";
   mhs.nama = "Abra Yudhistira";
   mhs.alamat = "Kasihan";
+
+  cout << "Masukkan Nim = ";
+  cin >> mhs.nim;
 }
