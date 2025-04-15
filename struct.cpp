@@ -22,4 +22,8 @@ int main(){
   cout << "Masukkan Alamat = ";
   cin >> mhs.alamat;
 
+  //menampilkan data struct
+  cout << endl;
+
+
 }
