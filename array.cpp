@@ -21,4 +21,9 @@ int main(){
       cout << "Mahasiswa ke-" << i+1 << " = ";
       cin >> nama[1];
     }
+
+    cout << endl;
+    for(int i = 0; i< 3; i++){
+        cout << "Data ke-" << i+1 << nama[i] << endl;
+    }
 }
