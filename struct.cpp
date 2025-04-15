@@ -17,4 +17,7 @@ int main(){
 
   cout << "Masukkan Nim = ";
   cin >> mhs.nim;
+  cout << "Masukkan NAMA = ";
+  cin >> mhs.nama;
+
 }
