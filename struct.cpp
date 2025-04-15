@@ -20,5 +20,6 @@ int main(){
   cout << "Masukkan NAMA = ";
   cin >> mhs.nama;
   cout << "Masukkan Alamat = ";
+  cin >> mhs.alamat;
 
 }
