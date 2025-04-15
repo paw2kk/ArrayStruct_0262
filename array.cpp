@@ -14,5 +14,7 @@ int main(){
     cout << "Isi data skor yang ketiga = " << skor[2] << endl;
     //Mengisi array pada index tertentu secara langsung
     skor[2] = 50;
+    cout << "Isi data skor yang ketiga = " << skor[2] << endl;
+    
 
 }
