@@ -15,6 +15,9 @@ int main(){
     //Mengisi array pada index tertentu secara langsung
     skor[2] = 50;
     cout << "Isi data skor yang ketiga = " << skor[2] << endl;
-    
 
+    //mengisi array dengan looping for 
+    for(int i = 0; i < 3; i++){
+      cout << "Mahasiswa ke-" << i+1 << " = ";
+    }
 }
