@@ -19,5 +19,6 @@ int main(){
     //mengisi array dengan looping for 
     for(int i = 0; i < 3; i++){
       cout << "Mahasiswa ke-" << i+1 << " = ";
+      cin >> nama[1];
     }
 }
